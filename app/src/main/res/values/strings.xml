@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Agenda Jeff</string>
+    <string name="name">Agenda Jeff</string>
+    <string name="button_iniciar">Iniciar</string>
+    <string name="logo">Agenda Jeff</string>
+    <string name="title_activity_materias">Registro</string>
+    <string name="registro">Ingresa tus datos</string>
+    <string name="name_registro">Nombre</string>
+    <string name="name_registro2">Escribe tu nombre</string>
+    <string name="matricula_registro">Matricula</string>
+    <string name="matricula_registro2">Ingresa tu matricula</string>
+    <string name="carrera_registro">Licenciatura</string>
+    <string name="carrera_registro2">Escribe el nombre de tu carrera</string>
+    <string name="button_registro">Continuar</string>
+
+
+
+    <string name="name_materia">Escribe el nombre de tus materias</string>
+    <string name="button_agregar">Agregar materia</string>
+</resources>
+
