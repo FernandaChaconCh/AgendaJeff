@@ -9,14 +9,22 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".Registro">
+        <activity
+                android:name=".Principal"
+                android:label="@string/title_activity_principal"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".Registro"
+                  android:noHistory="true">
+
         </activity>
         <activity
                 android:name=".Materias"
                 android:label="@string/title_activity_materias"
                 android:theme="@style/AppTheme.NoActionBar">
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+                  android:noHistory="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
